@@ -57,17 +57,10 @@ This project is a comprehensive machine learning pipeline designed for Twitter s
 The final model was deployed using Hugging Face for seamless deployment and accessibility. The solution is exposed through a REST API endpoint, allowing integration with web applications and data analysis platforms.
 
 ## Results
-- **Accuracy**: Achieved a classification accuracy of 83% on the test set.
 - **Precision and Recall**: High precision and recall scores for positive and negative classes, highlighting the model's capability in sentiment differentiation.
 
 ## Visual Results
-Below are visual representations of the model's performance:
-- **Classification Report**
-
-  ![image](https://github.com/user-attachments/assets/38012de9-6d9e-41a2-936e-adc669c8fbf2)
-- **F1-Score**
-
-  ![image](https://github.com/user-attachments/assets/6407c28b-12aa-40b2-ba29-cf3f91b0538d)
+Below is visual representations of the model's performance:
 - **Confusion Matrix**
 
   ![image](https://github.com/user-attachments/assets/bcccbde6-87a1-4297-b177-84ca5973ff3f)
